@@ -1,7 +1,7 @@
-# serenity-screenplay-saucedemo
+# Serenity-screenplay-saucedemo
 
 ## Summary
-Automation of the login flow on SauceDemo using Serenity BDD (Screenplay) + Cucumber.  
+Automation of the login flow on SauceDemo using Serenity BDD + Screenplay + Cucumber.  
 Main scenario: open the website, log in with valid credentials, and verify that the inventory page and product list are displayed.
 
 ---
