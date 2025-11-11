@@ -1,4 +1,4 @@
-# Serenity-screenplay-saucedemo
+# SerenityBDD-screenplay-saucedemo
 
 ## Summary
 Automation of the login flow on SauceDemo using Serenity BDD + Screenplay + Cucumber.  
