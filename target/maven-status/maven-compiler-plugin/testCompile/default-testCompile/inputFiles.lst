@@ -1,0 +1,9 @@
+/Users/david/Documents/Codigo/serenity-screenplay-saucedemo/src/test/java/com/saucedemo/userinterfaces/InventoryPage.java
+/Users/david/Documents/Codigo/serenity-screenplay-saucedemo/src/test/java/com/saucedemo/tasks/Login.java
+/Users/david/Documents/Codigo/serenity-screenplay-saucedemo/src/test/java/com/saucedemo/userinterfaces/LoginPage.java
+/Users/david/Documents/Codigo/serenity-screenplay-saucedemo/src/test/java/com/saucedemo/questions/LoginErrorIsVisible.java
+/Users/david/Documents/Codigo/serenity-screenplay-saucedemo/src/test/java/com/saucedemo/stepdefinitions/LoginStepDefinitions.java
+/Users/david/Documents/Codigo/serenity-screenplay-saucedemo/src/test/java/com/saucedemo/model/User.java
+/Users/david/Documents/Codigo/serenity-screenplay-saucedemo/src/test/java/com/saucedemo/questions/InventoryPageIsVisible.java
+/Users/david/Documents/Codigo/serenity-screenplay-saucedemo/src/test/java/com/saucedemo/questions/ProductsListIsVisible.java
+/Users/david/Documents/Codigo/serenity-screenplay-saucedemo/src/test/java/com/saucedemo/RunCucumberTest.java

@@ -1,0 +1,9 @@
+com/saucedemo/userinterfaces/LoginPage.class
+com/saucedemo/questions/LoginErrorIsVisible.class
+com/saucedemo/model/User.class
+com/saucedemo/questions/ProductsListIsVisible.class
+com/saucedemo/RunCucumberTest.class
+com/saucedemo/questions/InventoryPageIsVisible.class
+com/saucedemo/tasks/Login.class
+com/saucedemo/userinterfaces/InventoryPage.class
+com/saucedemo/stepdefinitions/LoginStepDefinitions.class
